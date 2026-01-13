@@ -96,9 +96,9 @@ export class PumpFunClient {
       description: config.description,
       image: config.imageUrl || '',
       showName: true,
-      createdOn: 'https://opusthedev.xyz',
+      createdOn: 'https://opusthedev.com',
       twitter: config.twitter || 'https://x.com/Opusthedev',
-      website: config.website || 'https://opusthedev.xyz',
+      website: config.website || 'https://opusthedev.com',
     };
 
     try {
